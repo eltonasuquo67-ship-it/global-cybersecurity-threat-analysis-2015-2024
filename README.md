@@ -1,5 +1,86 @@
-#📊 Global-cybersecurity-threat-analysis-2015-2024
+
+
+## 📊 Global-cybersecurity-threat-analysis-2015-2024
 End-to-end cybersecurity threat analysis using SQL (JOIN, GROUP BY, HAVING, CASE WHEN), Power BI, and Excel. Cleaned &amp; analyzed 1K+ incidents to track trends, compare AI defense effectiveness across 10 countries, and quantify $151.48K financial impact.
+
+
+
+
+## 🎯 Objectives
+
+* Analyze distribution of cyber attack sources
+* Measure global user impact
+* Evaluate financial losses by country
+* Compare incident resolution times
+* Identify country-level threat patterns
+
+
+
+
+
+## 📊 Insights
+
+🛡️ Attack Source Distribution
+
+* Nation-state: 794 incidents (26.5%)
+* Unknown: 768 incidents (25.6%)
+* Insider: 752 incidents (25.1%)
+* Hacker Groups: 686 incidents (22.9%)
+
+➡️ Cyber threats are evenly distributed, with no single dominant source.
+
+
+
+
+
+## 🌍 Global Impact
+
+* 2 Billion users affected
+
+➡️ Indicates large-scale global exposure to cyber threats.
+
+
+
+
+
+## 💰 Financial Loss
+
+* Total Loss: $151.48K
+
+Top Countries by Loss:
+
+* UK: $16.5K (10.9%)
+* Germany: $15.79K (10.4%)
+* Australia: $15.4K (10.2%)
+* Japan: $15.2K (10.0%)
+* France: $14.97K (9.9%)
+* USA: $14.81K (9.8%)
+
+➡️ Financial losses are evenly distributed globally.
+
+
+
+  
+### ⏱️ Incident Resolution Time
+
+* Fastest: USA (~9,000 hrs)
+* Slowest: UK (~10,000 hrs)
+
+➡️ Response times are similar across countries.
+
+
+
+
+
+## 🌐 Threat Distribution by Country
+
+* Highest: UK (~320)
+* Brazil: ~310
+* India: ~305
+* Lowest: China (~280)
+
+➡️ Both developed and emerging countries face high threats.
+
 
 
 ### Tools Used
