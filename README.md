@@ -8,6 +8,13 @@ SQL, MySQL, Power BI, Excel, Data Cleaning, KPI Tracking
 ### Dataset
 Simulated dataset of 1,000+ global cyber incidents. Key fields: `Year`, `Attack_Source`, `Country`, `Financial_Loss`, `Affected_Users`, `Defense_Mechanism`.
 
+
+
+![Image alt](
+
+
+
+
 ### Key Insights
 1. **Threat decline**: Total threats dropped 14% from 794 in 2015 to 686 in 2024, but financial impact remains high at $151.48K total loss.
 2. **Top attack source**: Hacker Groups caused 686 incidents vs Nation-state at 794, but Nation-state attacks had 23% higher financial loss per incident.
