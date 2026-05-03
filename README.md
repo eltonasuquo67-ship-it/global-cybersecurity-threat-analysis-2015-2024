@@ -3,7 +3,7 @@ End-to-end cybersecurity threat analysis using SQL (JOIN, GROUP BY, HAVING, CASE
 
 
 ### Tools Used
-SQL, MySQL, Power BI, Excel, Data Cleaning, KPI Tracking
+MySQL, Power BI, Excel, Data Cleaning, KPI Tracking
 
 ### Dataset
 Simulated dataset of 1,000+ global cyber incidents. Key fields: `Year`, `Attack_Source`, `Country`, `Financial_Loss`, `Affected_Users`, `Defense_Mechanism`.
